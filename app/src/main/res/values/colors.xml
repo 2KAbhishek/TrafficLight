@@ -10,4 +10,6 @@
     <color name="red">#FC1100</color>
     <color name="green">#37FF00</color>
     <color name="yellow">#FFFf00</color>
+    <color name="main">#1688f0</color>
+    <color name="accent">#24B2FD</color>
 </resources>
