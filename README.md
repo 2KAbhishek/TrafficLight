@@ -2,26 +2,23 @@
 
 <h1><a href="https://2kabhishek.github.io/TrafficLight">Traffic Light</a></h1>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/blob/main/LICENSE">
-<img alt="License" src="https://img.shields.io/github/license/2kabhishek/TrafficLight?style=plastic&color=white&label=License"> </a>
+<a href="https://github.com/2KAbhishek/Traffic Light/blob/main/LICENSE">
+<img alt="License" src="https://img.shields.io/github/license/2kabhishek/Traffic Light?style=flat&color=eee&label="> </a>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/pulse">
-<img alt="Updated" src="https://img.shields.io/github/last-commit/2kabhishek/TrafficLight?style=plastic&color=e30724&label=Updated"> </a>
+<a href="https://github.com/2KAbhishek/Traffic Light/graphs/contributors">
+<img alt="People" src="https://img.shields.io/github/contributors/2kabhishek/Traffic Light?style=flat&color=ffaaf2&label=People"> </a>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/stargazers">
-<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/TrafficLight?style=plastic&color=00d451&label=Stars"></a>
+<a href="https://github.com/2KAbhishek/Traffic Light/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/2kabhishek/Traffic Light?style=flat&color=98c379&label=Stars"></a>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/network/members">
-<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/TrafficLight?style=plastic&color=1688f0&label=Forks"> </a>
+<a href="https://github.com/2KAbhishek/Traffic Light/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/2kabhishek/Traffic Light?style=flat&color=66a8e0&label=Forks"> </a>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/watchers">
-<img alt="Watchers" src="https://img.shields.io/github/watchers/2kabhishek/TrafficLight?style=plastic&color=ff5500&label=Watchers"> </a>
+<a href="https://github.com/2KAbhishek/Traffic Light/watchers">
+<img alt="Watches" src="https://img.shields.io/github/watchers/2kabhishek/Traffic Light?style=flat&color=f5d08b&label=Watches"> </a>
 
-<a href="https://github.com/2KAbhishek/TrafficLight/graphs/contributors">
-<img alt="Contributors" src="https://img.shields.io/github/contributors/2kabhishek/TrafficLight?style=plastic&color=f0f&label=Contributors"> </a>
-
-<a href="https://github.com/2KAbhishek?tab=followers">
-<img alt="Followers" src="https://img.shields.io/github/followers/2kabhishek?color=222&style=plastic&label=Followers"> </a>
+<a href="https://github.com/2KAbhishek/Traffic Light/pulse">
+<img alt="Last Updated" src="https://img.shields.io/github/last-commit/2kabhishek/Traffic Light?style=flat&color=e06c75&label="> </a>
 
 <h3>Colurs and Buttons 🔘🚦</h3>
 
